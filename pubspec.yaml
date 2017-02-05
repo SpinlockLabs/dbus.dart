@@ -1,0 +1,4 @@
+name: dbus
+version: 1.0.0
+dependencies:
+  xml: "^2.5.0"
